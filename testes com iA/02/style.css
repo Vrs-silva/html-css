@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body { 
+    text-align: center;
+}
+
+.pro {
+    color: red;
+}
+
+.tenis { 
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+.bot {
+    display: inline-block;
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+
+}
+

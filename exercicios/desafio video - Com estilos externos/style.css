@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+            background-color: black;
+    }
+
+    h1 {
+            color: white;
+            text-align: center;
+    }
+
+    .sup {
+            text-align: center;
+    }
+
+    .inf {
+            text-align: center;
+        }
+
+    .sitesext {
+       text-align: center;
+    }
+    
+     
+    
